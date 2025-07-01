@@ -6,7 +6,7 @@ import math
 st.write("Charts")
 
 df = pd.read_csv("hitl_warehouse_data.csv")
-
+#THIS SECTION WAS WRITTEN BY CHATGPT
 # Calculate Staff Needed and Gap
 bank_hours = 6
 df["StaffNeeded"] = df["Volume"] / (df["ProcessingRate"] * bank_hours)
