@@ -1,0 +1,17 @@
+Area,Bank,Volume,Staff,ProcessingRate
+Inbound Dock,A,1000,5,10
+Inbound Dock,B,1200,7,10
+Inbound Dock,C,800,3,10
+Inbound Dock,D,1500,9,10
+Outbound Dock,A,1100,6,12
+Outbound Dock,B,900,4,12
+Outbound Dock,C,1300,8,12
+Outbound Dock,D,1400,9,12
+Small Sort,A,700,5,8
+Small Sort,B,1000,6,8
+Small Sort,C,900,4,8
+Small Sort,D,1200,7,8
+General Sort,A,1300,6,11
+General Sort,B,1100,5,11
+General Sort,C,1250,7,11
+General Sort,D,1350,8,11
